@@ -6,6 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## the world of Maktub
 
+```markdown
+try
+# get
+```
+```python
+if a == 0
+    y=True
+end
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
