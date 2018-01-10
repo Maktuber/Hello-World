@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/Maktuber/Hello-World/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## the world of Maktub
-![grahene](https://en.wikipedia.org/wiki/Graphene#/media/File:Graphen.jpg)
+![grahene](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Graphen.jpg/1024px-Graphen.jpg)
 
 ```markdown
 try
-![grahene](https://en.wikipedia.org/wiki/Graphene)
+![grahene](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Graphen.jpg/1024px-Graphen.jpg)
 # get
 ```
 ```python
